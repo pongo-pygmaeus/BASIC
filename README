@@ -1,5 +1,8 @@
-Silly basic interpreter in ruby 
+Silly basic interpreter in ruby (forked from techbelly's original repo)
 
+Clone repo, run `bundle`,
+
+ $ bundle
  $ ./BASIC
 
  READY
@@ -21,10 +24,7 @@ examples/battle has programs from Usborne's Computer Battlegames, http://www.com
 
 examples/space programs from Usborne's Computer Spacegames. http://www.computinghistory.org.uk/cgi-bin/sitewise.pl?act=det&p=9740
 
-examples/creepy programs from Usborne's Creepy Computer Games. 
+examples/creepy programs from Usborne's Creepy Computer Games.
 
 Knock yourselves out.
 
-Requires 'ruby-termios' to be installed.
-
-I talked a bit about it at the London Ruby Users Group in Jan 2011. Video here: https://skillsmatter.com/skillscasts/1879-basic-interpreter
