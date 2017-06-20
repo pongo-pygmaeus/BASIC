@@ -1,0 +1,12 @@
+GEM
+  specs:
+    ruby-termios (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruby-termios
+
+BUNDLED WITH
+   1.14.6
